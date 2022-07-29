@@ -1,0 +1,21 @@
+{
+  "name": "MintZero Silver",
+  "symbol": "MZSilver",
+  "image": "17.png",
+  "properties": {
+    "files": [{ "uri": "17.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      { "address": "nAzF9k8VQCnEFSbY2vwKcoy5b9f3oXgGMsyFVbYoVfh", "share": 100 }
+    ]
+  },
+  "description": "This MintZero NFT represents a 10-year stream of high-quality carbon offsets, delivered regularly via airdrop and helping your business go carbon neutral",
+  "seller_fee_basis_points": 1000,
+  "attributes": [
+    { "trait_type": "Edition", "value": "First Edition" },
+    { "trait_type": "Edition Year", "value": "2022" },
+    { "trait_type": "Carbon Credits", "value": "30/yr" },
+    { "trait_type": "Streaming Period", "value": "10 years" }
+  ],
+  "collection": { "name": "MintZero", "family": "MintZero" }
+}
